@@ -38,7 +38,8 @@
   - 如果已經有預約但還未參訪就會有提示是否重複預約。
   - 預約成功後會跳轉到預約參訪表單，這邊可以看到該用戶有預約的詳細資料。
   - 介紹影片https://www.youtube.com/watch?v=U_V8Erzaqho
-
+- 回報信件&推播通知
+  - 介紹影片https://www.youtube.com/watch?v=Mep8pWZ8qgc
 ### 後端
 
 - Java
